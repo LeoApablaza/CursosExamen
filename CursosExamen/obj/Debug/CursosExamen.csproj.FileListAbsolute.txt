@@ -1,0 +1,343 @@
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\bin\CursosExamen.dll.config
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\bin\CursosExamen.dll
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\bin\CursosExamen.pdb
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\bin\roslyn\csc.exe
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\bin\roslyn\csc.exe.config
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\bin\roslyn\csc.rsp
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\bin\roslyn\csi.exe
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\bin\roslyn\csi.exe.config
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\bin\roslyn\csi.rsp
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\bin\roslyn\System.AppContext.dll
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\bin\roslyn\System.Console.dll
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\bin\roslyn\System.IO.Compression.dll
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\bin\roslyn\System.Net.Http.dll
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\bin\roslyn\System.Net.Sockets.dll
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\bin\roslyn\System.ValueTuple.dll
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\bin\roslyn\System.Xml.XPath.dll
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\bin\roslyn\vbc.exe
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\bin\roslyn\vbc.exe.config
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\bin\roslyn\vbc.rsp
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\bin\roslyn\VBCSCompiler.exe
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\bin\Antlr3.Runtime.dll
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\bin\Newtonsoft.Json.dll
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\bin\System.Web.Helpers.dll
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\bin\System.Web.Mvc.dll
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\bin\System.Web.Optimization.dll
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\bin\System.Web.Razor.dll
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\bin\System.Web.WebPages.Deployment.dll
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\bin\System.Web.WebPages.dll
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\bin\System.Web.WebPages.Razor.dll
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\bin\WebGrease.dll
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\bin\System.Web.Helpers.xml
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\bin\System.Web.Mvc.xml
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\bin\System.Web.Optimization.xml
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\bin\System.Web.Razor.xml
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\bin\System.Web.WebPages.xml
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\bin\System.Web.WebPages.Deployment.xml
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\bin\System.Web.WebPages.Razor.xml
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\bin\Newtonsoft.Json.xml
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\bin\Antlr3.Runtime.pdb
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\bin\es\System.Web.Helpers.resources.dll
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\bin\es\System.Web.Mvc.resources.dll
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\bin\es\System.Web.Optimization.resources.dll
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\bin\es\System.Web.Razor.resources.dll
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\bin\es\System.Web.WebPages.resources.dll
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\obj\Debug\CursosExamen.csprojAssemblyReference.cache
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\obj\Debug\CursosExamen.csproj.CoreCompileInputs.cache
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\obj\Debug\CursosExamen.csproj.CopyComplete
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\obj\Debug\CursosExamen.dll
+C:\Users\leoap\Desktop\CursosExamen\CursosExamen\obj\Debug\CursosExamen.pdb
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\bin\CursosExamen.dll.config
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\bin\CursosExamen.dll
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\bin\CursosExamen.pdb
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\bin\roslyn\csc.exe
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\bin\roslyn\csc.exe.config
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\bin\roslyn\csc.rsp
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\bin\roslyn\csi.exe
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\bin\roslyn\csi.exe.config
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\bin\roslyn\csi.rsp
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\bin\roslyn\System.AppContext.dll
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\bin\roslyn\System.Console.dll
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\bin\roslyn\System.IO.Compression.dll
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\bin\roslyn\System.Net.Http.dll
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\bin\roslyn\System.ValueTuple.dll
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\bin\roslyn\vbc.exe
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\bin\roslyn\vbc.exe.config
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\bin\roslyn\vbc.rsp
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\bin\roslyn\VBCSCompiler.exe
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\bin\Antlr3.Runtime.dll
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\bin\Newtonsoft.Json.dll
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\bin\System.Web.Helpers.dll
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\bin\System.Web.Mvc.dll
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\bin\System.Web.Optimization.dll
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\bin\System.Web.Razor.dll
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\bin\System.Web.WebPages.dll
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\bin\System.Web.WebPages.Razor.dll
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\bin\WebGrease.dll
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\bin\System.Web.Helpers.xml
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\bin\System.Web.Mvc.xml
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\bin\System.Web.Optimization.xml
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\bin\System.Web.Razor.xml
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\bin\System.Web.WebPages.xml
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\bin\System.Web.WebPages.Razor.xml
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\bin\Newtonsoft.Json.xml
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\bin\Antlr3.Runtime.pdb
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\bin\es\System.Web.Razor.resources.dll
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\obj\Debug\CursosExamen.csprojAssemblyReference.cache
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\obj\Debug\CursosExamen.csproj.CopyComplete
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\obj\Debug\CursosExamen.dll
+C:\Users\Solution-IT\Desktop\CursosExamen\CursosExamen\obj\Debug\CursosExamen.pdb
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\bin\CursosExamen.dll.config
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\bin\CursosExamen.dll
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\bin\CursosExamen.pdb
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\bin\roslyn\csc.exe
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\bin\roslyn\csc.exe.config
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\bin\roslyn\csc.rsp
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\bin\roslyn\csi.exe
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\bin\roslyn\csi.exe.config
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\bin\roslyn\csi.rsp
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\bin\roslyn\System.AppContext.dll
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\bin\roslyn\System.Collections.Immutable.dll
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\bin\roslyn\System.Console.dll
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\bin\roslyn\System.Globalization.Calendars.dll
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\bin\roslyn\System.IO.Compression.dll
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\bin\roslyn\System.IO.FileSystem.dll
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\bin\roslyn\System.Net.Http.dll
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\bin\roslyn\System.Net.Sockets.dll
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\bin\roslyn\System.Reflection.Metadata.dll
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\bin\roslyn\System.ValueTuple.dll
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\bin\roslyn\System.Xml.XPath.dll
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\bin\roslyn\vbc.exe
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\bin\roslyn\vbc.exe.config
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\bin\roslyn\vbc.rsp
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\bin\roslyn\VBCSCompiler.exe
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\bin\roslyn\VBCSCompiler.exe.config
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\bin\Antlr3.Runtime.dll
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\bin\Microsoft.Web.Infrastructure.dll
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\bin\Newtonsoft.Json.dll
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\bin\System.Web.Helpers.dll
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\bin\System.Web.Mvc.dll
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\bin\System.Web.Optimization.dll
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\bin\System.Web.Razor.dll
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\bin\System.Web.WebPages.Deployment.dll
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\bin\System.Web.WebPages.dll
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\bin\System.Web.WebPages.Razor.dll
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\bin\WebGrease.dll
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\bin\System.Web.Helpers.xml
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\bin\System.Web.Mvc.xml
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\bin\System.Web.Optimization.xml
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\bin\System.Web.Razor.xml
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\bin\System.Web.WebPages.xml
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\bin\System.Web.WebPages.Deployment.xml
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\bin\System.Web.WebPages.Razor.xml
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\bin\Newtonsoft.Json.xml
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\bin\Antlr3.Runtime.pdb
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\bin\es\System.Web.Helpers.resources.dll
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\bin\es\System.Web.Mvc.resources.dll
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\bin\es\System.Web.Optimization.resources.dll
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\bin\es\System.Web.Razor.resources.dll
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\bin\es\System.Web.WebPages.resources.dll
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\obj\Debug\CursosExamen.csprojAssemblyReference.cache
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\obj\Debug\CursosExamen.csproj.CoreCompileInputs.cache
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\obj\Debug\CursosExamen.csproj.CopyComplete
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\obj\Debug\CursosExamen.dll
+D:\Bibliotecas\Documentos\CursosExamen\CursosExamen\obj\Debug\CursosExamen.pdb
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\bin\CursosExamen.dll.config
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\bin\CursosExamen.dll
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\bin\CursosExamen.pdb
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\bin\roslyn\csc.exe
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\bin\roslyn\csc.exe.config
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\bin\roslyn\csc.rsp
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\bin\roslyn\csi.exe
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\bin\roslyn\csi.exe.config
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\bin\roslyn\csi.rsp
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\bin\roslyn\System.AppContext.dll
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\bin\roslyn\System.Console.dll
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\bin\roslyn\System.IO.Compression.dll
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\bin\roslyn\System.Net.Http.dll
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\bin\roslyn\System.Net.Sockets.dll
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\bin\roslyn\System.ValueTuple.dll
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\bin\roslyn\System.Xml.XPath.dll
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\bin\roslyn\vbc.exe
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\bin\roslyn\vbc.exe.config
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\bin\roslyn\vbc.rsp
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\bin\roslyn\VBCSCompiler.exe
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\bin\Antlr3.Runtime.dll
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\bin\Newtonsoft.Json.dll
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\bin\System.Web.Helpers.dll
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\bin\System.Web.Mvc.dll
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\bin\System.Web.Optimization.dll
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\bin\System.Web.Razor.dll
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\bin\System.Web.WebPages.Deployment.dll
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\bin\System.Web.WebPages.dll
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\bin\System.Web.WebPages.Razor.dll
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\bin\WebGrease.dll
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\bin\System.Web.Helpers.xml
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\bin\System.Web.Mvc.xml
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\bin\System.Web.Optimization.xml
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\bin\System.Web.Razor.xml
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\bin\System.Web.WebPages.xml
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\bin\System.Web.WebPages.Deployment.xml
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\bin\System.Web.WebPages.Razor.xml
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\bin\Newtonsoft.Json.xml
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\bin\Antlr3.Runtime.pdb
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\bin\es\System.Web.Helpers.resources.dll
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\bin\es\System.Web.Mvc.resources.dll
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\bin\es\System.Web.Optimization.resources.dll
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\bin\es\System.Web.Razor.resources.dll
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\bin\es\System.Web.WebPages.resources.dll
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\obj\Debug\CursosExamen.csprojAssemblyReference.cache
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\obj\Debug\CursosExamen.csproj.CoreCompileInputs.cache
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\obj\Debug\CursosExamen.csproj.CopyComplete
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\obj\Debug\CursosExamen.dll
+C:\Users\leoap\Desktop\Nueva carpeta\CursosExamen\CursosExamen\obj\Debug\CursosExamen.pdb

@@ -1,0 +1,423 @@
+﻿@model IEnumerable<CursosExamen.Models.Inscripcion>
+@{
+    ViewBag.Title = "Index";
+}
+
+
+@*<div class="row">
+        <a href="/Inscripciones/Create" class="btn btn-primary float-right my-5">Nueva inscripción</a>
+    </div>*@
+
+
+
+<div class="row">
+    <div class="col-2">
+        <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+            <a class="nav-link" href="/Inscripciones/Create" role="tab" aria-selected="false">Nueva inscripción</a>
+            <a class="nav-link active" id="ind" data-toggle="pill" href="#tablaIndv" role="tab" aria-controls="v-pills-home" aria-selected="true">Individuales</a>
+            <a class="nav-link" id="grup" data-toggle="pill" href="#tablaGrup" role="tab" aria-controls="v-pills-profile" aria-selected="false">Grupales</a>
+
+        </div>
+    </div>
+    <div class="col-10">
+        <div class="tab-content" id="v-pills-tabContent">
+            <div class="tab-pane fade show active" id="tablaIndv" role="tabpanel" aria-labelledby="ind">
+
+
+                <div class="row">
+
+                    <div class="col-md-9">
+
+                        <div class="table-responsive">
+                            <table class="table">
+                                <thead>
+                                    <tr>
+                                        <th scope="col">
+                                            @Html.DisplayNameFor(model => model.Id)
+                                        </th>
+                                        <th scope="col">
+                                            @Html.DisplayNameFor(model => model.CursoNombre)
+                                        </th>
+                                        <th scope="col">
+                                            @Html.DisplayNameFor(model => model.AlumnoId)
+                                        </th>
+                                        <th scope="col">
+                                            @Html.DisplayNameFor(model => model.InfoAlumno)
+                                        </th>
+                                        <th scope="col">
+                                            @Html.DisplayNameFor(model => model.FechaInscripcion)
+                                        </th>
+
+                                        <th scope="col">Editar</th>
+                                        <th scope="col">Eliminar</th>
+
+
+                                    </tr>
+                                </thead>
+                                <tbody>
+
+                                    @if (Model.Count() > 0)
+                                    {
+
+                                        foreach (var item in Model)
+                                        {
+
+                                            if (item.ModalidadId == 2)
+                                            {
+                                                <tr>
+                                                    <td>@Html.DisplayFor(modelItem => item.Id)</td>
+                                                    <th>@Html.DisplayFor(modelItem => item.CursoNombre)</th>
+                                                    <td>@Html.DisplayFor(modelItem => item.AlumnoId)</td>
+                                                    <td>@Html.DisplayFor(modelItem => item.InfoAlumno)</td>
+                                                    <td>@Html.DisplayFor(modelItem => item.FechaInscripcion)</td>
+
+                                                    <td>@Html.ActionLink("Editar", "Edit", new { id = item.Id }, new { @class = "btn btn-warning" })</td>
+                                                    <td>
+                                                        <a data-id="@item.Id" class="btn btn-danger btnBorrar"> Eliminar</a>
+                                                    </td>
+                                                </tr>
+                                            }
+
+
+                                        }
+
+
+                                    }
+                                    else
+                                    {
+                                        <tr>
+                                            <td colspan="12" class="text-center">Aún no hay inscripciones</td>
+                                        </tr>
+                                    }
+
+                                </tbody>
+                            </table>
+                        </div>
+
+                    </div>
+
+
+                    <div class="col-md-3">
+
+                        <div class="card">
+
+                            <div class="row">
+                                <div class="col">
+                                    <h5>Hombres<span class="badge badge-secondary" id="hombresInd"></span></h5>
+                                </div>
+                                <div class="col">
+                                    <h5>Mujeres<span class="badge badge-primary" id="mujeresInd"></span></h5>
+                                </div>
+                            </div>
+
+
+                            <div class="row mt-2">
+                                <div class="col">
+                                    <h5>Mayores<span class="badge badge-success" id="mayoresInd"></span></h5>
+                                </div>
+                                <div class="col">
+                                    <h5>Menores<span class="badge badge-info" id="menoresInd"></span></h5>
+                                </div>
+                            </div>
+
+                        </div>
+
+
+                        <div class="card mt-2">
+                            <h6 >Nombre alumno</h6>
+                            <div class="card-body fadeInInd"></div>
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+            <div class="tab-pane fade" id="tablaGrup" role="tabpanel" aria-labelledby="grup">
+
+                <div class="row">
+
+                    <div class="col-md-9">
+
+                        <div class="table-responsive">
+                            <table class="table">
+                                <thead>
+                                    <tr>
+                                        <th scope="col">
+                                            @Html.DisplayNameFor(model => model.Id)
+                                        </th>
+                                        <th scope="col">
+                                            @Html.DisplayNameFor(model => model.CursoNombre)
+                                        </th>
+                                        <th scope="col">
+                                            @Html.DisplayNameFor(model => model.AlumnoId)
+                                        </th>
+                                        <th scope="col">
+                                            @Html.DisplayNameFor(model => model.InfoAlumno)
+                                        </th>
+                                        <th scope="col">
+                                            @Html.DisplayNameFor(model => model.FechaInscripcion)
+                                        </th>
+
+                                        <th scope="col">Editar</th>
+                                        <th scope="col">Eliminar</th>
+
+                                    </tr>
+                                </thead>
+                                <tbody>
+
+                                    @if (Model.Count() > 0)
+                                    {
+
+                                        foreach (var item in Model)
+                                        {
+
+                                            if (item.ModalidadId == 1)
+                                            {
+                                                <tr>
+                                                    <td>@Html.DisplayFor(modelItem => item.Id)</td>
+                                                    <th>@Html.DisplayFor(modelItem => item.CursoNombre)</th>
+                                                    <td>@Html.DisplayFor(modelItem => item.AlumnoId)</td>
+                                                    <td>@Html.DisplayFor(modelItem => item.InfoAlumno)</td>
+                                                    <td>@Html.DisplayFor(modelItem => item.FechaInscripcion)</td>
+
+                                                    <td>@Html.ActionLink("Editar", "Edit", new { id = item.Id }, new { @class = "btn btn-warning" })</td>
+                                                    <td>
+                                                        <a data-id="@item.Id" class="btn btn-danger btnBorrar"> Eliminar</a>
+                                                    </td>
+                                                </tr>
+                                            }
+
+                                        }
+
+                                    }
+                                    else
+                                    {
+
+                                        <tr>
+                                            <td colspan="12" class="text-center">Aún no hay inscripciones</td>
+                                        </tr>
+                                    }
+
+
+                                </tbody>
+                            </table>
+                        </div>
+
+                    </div>
+
+
+
+                    <div class="col-md-3">
+
+                        <div class="card">
+
+                            <div class="row">
+                                <div class="col">
+                                    <h5>Hombres<span class="badge badge-secondary" id="hombresGrup"></span></h5>
+                                </div>
+                                <div class="col">
+                                    <h5>Mujeres<span class="badge badge-primary" id="mujeresGrup"></span></h5>
+                                </div>
+                            </div>
+
+
+                            <div class="row mt-2">
+                                <div class="col">
+                                    <h5>Mayores<span class="badge badge-success" id="mayoresGrup"></span></h5>
+                                </div>
+                                <div class="col">
+                                    <h5>Menores<span class="badge badge-info" id="menoresGrup"></span></h5>
+                                </div>
+                            </div>
+
+                        </div>
+
+
+                        <div class="card mt-2">
+                            <h6>Nombre alumno</h6>
+                            <div class="card-body fadeInGrup"></div>
+                        </div>
+
+                    </div>
+
+
+
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+</div>
+
+
+
+@section Scripts {
+
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+
+            let contadorInd = 0;
+            let contadorGrup = 0;
+            let inscripciones = @Html.Raw(Json.Encode(Model));
+            let inscripcionesGrupales = inscripciones.filter(inscripcion => inscripcion.ModalidadId == 1);
+            let inscripcionesIndividuales = inscripciones.filter(inscripcion => inscripcion.ModalidadId == 2);
+            let mayoresEdadGrup = 0, menoresEdadGrup = 0, mayoresEdadInd = 0, menoresEdadInd = 0;
+            let mujeresGrup = 0, hombresGrup = 0, mujeresInd = 0, hombresInd = 0;
+           
+            getDatosExtraInd();
+            getDatosExtraGrup();
+            //mostrarNombreInd();
+
+            $("#grup").click(function () {
+
+                contador = 0;
+                mostrarNombreGrup();
+
+            });
+
+            $(".btnBorrar").click(function () {
+
+             
+                var $buttonClicked = $(this);
+                id = $buttonClicked.attr('data-id');
+
+                //id = $(".btnBorrar").attr('data-id');
+                console.log('id', id);
+                
+
+                    Swal.fire({
+                    title: 'Eliminar inscripción?',
+
+                    showCancelButton: true,
+                    icon: 'warning',
+                    confirmButtonText: 'Eliminar',
+                    cancelButtonText: 'Cancelar',
+                    confirmButtonColor: '#dd6b55'
+                }).then((result) => {
+
+                    if (result.isConfirmed) {
+
+                        $.ajax({
+
+                            url: '@Url.Content("~/Inscripciones/Delete")',
+                            type: "POST",
+                            async: false,
+                            data: JSON.stringify({ "id": id }),
+                            dataType: 'json',
+                            contentType: 'application/json; charset=utf-8',
+                            error: function (request, error) {
+
+                            Swal.fire('Error al eliminar inscripción', '', 'error')
+                            },
+                            success: function (data) {
+                                if (data == true) {
+                                    location.reload();
+                                }
+                                else {
+                                    Swal.fire('Error al eliminar inscripción', '', 'error')
+                                }
+                            }
+                        });
+
+
+                    }
+                })
+
+            });
+
+               // Muestro el nombre de cada alumno de la lista individuales en el costado derecho de la pantalla
+            function mostrarNombreInd(){
+
+                if (contadorInd < inscripcionesIndividuales.length) {
+                    $('.fadeInInd').empty();
+                    $('.fadeInInd').append(inscripcionesIndividuales[contadorInd].InfoAlumno).hide().fadeIn('slow');
+                    contadorInd++;
+                }
+                else {
+                    contadorInd = 0;
+                }
+
+                  setTimeout(mostrarNombreInd, 10000);
+            }
+
+            mostrarNombreInd();
+
+            // Muestro el nombre de cada alumno de la lista grupales en el costado derecho de la pantalla
+            function mostrarNombreGrup(){
+
+                if (contadorGrup < inscripcionesGrupales.length) {
+
+                    $('.fadeInGrup').empty();
+                    $('.fadeInGrup').append(inscripcionesGrupales[contadorGrup].InfoAlumno).hide().fadeIn('slow');
+                  
+                    contadorGrup++;
+                }
+                else {
+                    contadorGrup = 0;
+                }
+
+                  setTimeout(mostrarNombreGrup, 10000);
+            }
+
+            // Obtengo mujeres y hombres, mayores y menores de edad de la lista de inscripciones individuales
+            function getDatosExtraInd() {
+
+                inscripcionesIndividuales.forEach(i => {
+                    if (i.Edad > 18) {
+                        mayoresEdadInd++;
+                    }
+                    else {
+                        menoresEdadInd++;
+                    }
+
+                    if (i.Genero == 'MASCULINO') {
+                        hombresInd++;
+                    }
+                    else {
+                        mujeresInd++;
+                    }
+
+                });
+
+                $('#mayoresInd').append(mayoresEdadInd).hide().fadeIn('slow');
+                $('#menoresInd').append(menoresEdadInd).hide().fadeIn('slow');
+                $('#hombresInd').append(hombresInd).hide().fadeIn('slow');
+                $('#mujeresInd').append(mujeresInd).hide().fadeIn('slow');
+            }
+
+             // Obtengo mujeres y hombres, mayores y menores de edad de la lista de inscripciones grupales
+            function getDatosExtraGrup() {
+
+                inscripcionesGrupales.forEach(i => {
+                    if (i.Edad > 18) {
+                        mayoresEdadGrup++;
+                    }
+                    else {
+                        menoresEdadGrup++;
+                    }
+
+                    if (i.Genero == 'MASCULINO') {
+                        hombresGrup++;
+                    }
+                    else {
+                        mujeresGrup++;
+                    }
+
+                });
+
+                $('#mayoresGrup').append(mayoresEdadGrup).hide().fadeIn('slow');
+                $('#menoresGrup').append(menoresEdadGrup).hide().fadeIn('slow');
+                $('#hombresGrup').append(hombresGrup).hide().fadeIn('slow');
+                $('#mujeresGrup').append(mujeresGrup).hide().fadeIn('slow');
+            }
+
+	    });
+
+    </script>
+
+}
+
+

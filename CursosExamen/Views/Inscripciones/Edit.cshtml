@@ -1,0 +1,268 @@
+﻿@model CursosExamen.Models.Inscripcion
+@{
+    ViewBag.Title = "Edit";
+}
+
+<div class="container">
+    <form method="post">
+
+        <div class="form-group">
+
+
+            <div class="row">
+
+                <div class="col-md-6">
+
+                    <h2 class="mb-2">Asignar curso</h2>
+
+                    
+                    @Html.TextBoxFor(model => model.Id, null, new { @class = "form-control d-none" })
+                           
+                    <label for="persona">Buscar persona</label>
+
+                    @Html.TextBoxFor(model => model.InfoAlumno, null, new { @class = "form-control", list = "lista_alumnos", type = "search", autocomplete = "off", id = "infoAlumno" })
+
+                    <datalist id="lista_alumnos">
+                        @foreach (var item in ViewBag.alumnos)
+                        {
+                            <option id="@item.Id" value="@item.InfoAlumno"></option>
+                        }
+                    </datalist>
+                    @Html.ValidationMessageFor(model => model.InfoAlumno, null, new { @class = "text-danger" })
+
+
+                    <div class="form-group mt-2">
+                        <label for="ModalidadId">Seleccionar modalidad</label>
+                        @Html.DropDownList("ModalidadId", (IEnumerable<SelectListItem>)ViewBag.listaModalidades, "Seleccionar", new { @class = "form-control" })
+                        @Html.ValidationMessageFor(model => model.ModalidadId, null, new { @class = "text-danger" })
+                    </div>
+
+                    <div class="form-group mt-2">
+                        <label for="CursoId">Seleccionar curso</label>
+
+                        @Html.DropDownList("CursoId", (IEnumerable<SelectListItem>)ViewBag.listaCursos2, "Seleccionar", new { @class = "form-control" })
+                        @Html.ValidationMessageFor(model => model.CursoId, null, new { @class = "text-danger" })
+                    </div>
+
+                    <h2> Info del curso</h2>
+
+                    <div class="form-group">
+                        <label for="modalidad">Descripción</label>
+                        @Html.TextArea("Descripcion", null, new { @class = "form-control" })
+
+                    </div>
+
+                </div>
+
+                <div class="col-md-6" id="datosAlumno">
+
+                    <h2> Info de alumno</h2>
+
+                    <div class="row">
+                        <div class="col">
+                            <div class="form-group">
+                                <label for="AlumnoId">Id</label>
+                                @Html.TextBoxFor(model => model.AlumnoId, null, new { @class = "form-control", id = "idAlumno" })
+
+                            </div>
+                        </div>
+
+                        <div class="col">
+                            <div class="form-group">
+                                <label for="Nombre">Nombre</label>
+                                @Html.TextBoxFor(model => model.Nombre, null, new { @class = "form-control", id = "nombreAlumno" })
+                                @Html.ValidationMessageFor(model => model.Nombre, null, new { @class = "text-danger" })
+                            </div>
+
+                        </div>
+                    </div>
+
+                    <div class="row">
+
+                        <div class="col">
+                            <div class="form-group">
+                                <label for="Apellido">Apellido</label>
+                                @Html.TextBoxFor(model => model.Apellido, null, new { @class = "form-control", id = "apellidoAlumno" })
+                                @Html.ValidationMessageFor(model => model.Apellido, null, new { @class = "text-danger" })
+                            </div>
+                        </div>
+
+                        <div class="col">
+                            <div class="form-group">
+                                <label for="Dni">Dni</label>
+                                @Html.TextBoxFor(model => model.Dni, null, new { @class = "form-control", id = "dniAlumno" })
+                                @Html.ValidationMessageFor(model => model.Dni, null, new { @class = "text-danger" })
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div class="row">
+
+                        <div class="col">
+                            <div class="form-group">
+                                <label for="Edad">Edad</label>
+                                @Html.TextBoxFor(model => model.Edad, null, new { @class = "form-control", id = "edadAlumno" })
+                                @Html.ValidationMessageFor(model => model.Edad, null, new { @class = "text-danger" })
+                            </div>
+                        </div>
+
+                        <div class="col">
+                            <div class="form-group">
+                                <label for="Genero">Genero</label>
+                                @Html.TextBoxFor(model => model.Genero, null, new { @class = "form-control", id = "generoAlumno" })
+                                @Html.ValidationMessageFor(model => model.Genero, null, new { @class = "text-danger" })
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+        </div>
+
+        <div class="float-right">
+            @Html.ValidationMessageFor(model => model.Id, null, new { @class = "text-danger" }) <br />
+            <button type="submit" class="btn btn-primary float-right">Inscribir</button>
+        </div>
+
+    </form>
+</div>
+
+
+@section Scripts {
+
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+
+            let _cursos = @Html.Raw(Json.Encode(ViewBag.listaCursos));
+
+            $("#idAlumno").prop('readonly', true);
+            $("#nombreAlumno").prop('readonly', true);
+            $("#apellidoAlumno").prop('readonly', true);
+            $("#dniAlumno").prop('readonly', true);
+            $("#edadAlumno").prop('readonly', true);
+            $("#generoAlumno").prop('readonly', true);
+            $("#Descripcion").prop('readonly', true);
+
+
+            $("#infoAlumno").change(function () {
+
+
+                let infoValue = $("#infoAlumno").val();
+
+                let alumnosViewBag = @Html.Raw(Json.Encode(ViewBag.alumnos));
+
+                let alumnos = alumnosViewBag.filter(alumnos => alumnos.InfoAlumno.toUpperCase() == infoValue.toUpperCase());
+
+                if (alumnos.length > 0) {
+
+                    idAlumno.value = alumnos[0].Id;
+                    nombreAlumno.value = alumnos[0].Nombre;
+                    apellidoAlumno.value = alumnos[0].Apellido;
+                    dniAlumno.value = alumnos[0].Dni;
+                    generoAlumno.value = alumnos[0].Genero.value;
+                    edadAlumno.value = alumnos[0].Edad;
+
+                    //$("#datosAlumno").removeClass("d-none");
+
+                }
+                else {
+
+                    idAlumno.value = "";
+                    nombreAlumno.value = "";
+                    apellidoAlumno.value = "";
+                    dniAlumno.value = "";
+                    generoAlumno.value = "";
+                    edadAlumno.value = "";
+
+                }
+
+            });
+
+
+            $("#ModalidadId").change(function () {
+                getCursos();
+            });
+
+
+            $("#CursoId").change(function () {
+
+                let cursoSeleccionado = _cursos.filter(curso => curso.Id == CursoId.value);
+
+                if (cursoSeleccionado[0]) {
+                    Descripcion.value = cursoSeleccionado[0].Descripcion;
+                }
+                else {
+                    $("#Descripcion").val("");
+                }
+
+             });
+
+            function getCursos() {
+
+                let modalidadId = $("#ModalidadId").val();
+
+                if (modalidadId > 0) {
+
+                    $.ajax({
+                         url: '@Url.Content("~/Inscripciones/GetCursos")',
+                         type: "POST",
+                         async: false,
+                         data: JSON.stringify({ "modalidadId": modalidadId }),
+                         dataType: 'json',
+                         contentType: 'application/json; charset=utf-8',
+                         error: function (xhr, status, error) {
+                             alert(xhr.responseText);  // to see the error message
+                         },
+                         success: function (data) {
+
+                             if (data[0] != null) {
+
+                                 _cursos = data;
+
+                                 $("#CursoId").prop("disabled", false);
+
+                                 $("#CursoId").empty();
+                                 $("#Descripcion").val("");
+
+                                  $("#CursoId").append($("<option     />").val(-1).text("Seleccionar"));
+
+                                 $.each(data, function (i, curso) {
+
+                                     $("#CursoId").append($("<option     />").val(curso.Id).text(curso.Nombre));
+
+                                 });
+
+                             }
+
+                             else {
+                                 alert("No se encontraron datos");
+                             }
+
+
+                         }
+                     });
+
+                }
+                else {
+
+                    $("#CursoId").empty();
+                    $("#Descripcion").val("");
+                    $( "#CursoId" ).prop( "disabled", true );
+
+                    $("#CursoId").append($("<option     />").val(-1).text("Seleccionar modalidad de curso"));
+
+                }
+
+            }
+
+
+	    });
+
+    </script>
+
+
+}
+
